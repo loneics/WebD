@@ -8,7 +8,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background: #122;
+  background: #112222;
   height: 1000px;
   overflow-x: hidden;
 }
@@ -209,7 +209,6 @@ header .toggle.active {
 }
 
 .text {
-  position: relative;
   color: #fff;
   font-size: 16px;
   font-weight: 300;
@@ -218,7 +217,7 @@ header .toggle.active {
 .about .imgBx {
   position: relative;
   width: 50%;
-  background-image: url(img/window.jpg);
+  background-image: url(img/free-bg.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -433,13 +432,13 @@ header .toggle.active {
   position: relative;
   padding: 100px;
   text-align: center;
-  background: #162c3b;
+  background: #112222;
 }
 
 .about .imgBx2 {
   position: relative;
   width: 50%;
-  background-image: url(img/bg2.jpg);
+  background-image: url(img/phone.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -500,7 +499,7 @@ header .toggle.active {
 
 .footer {
   position: relative;
-  background: #162c3b;
+  background: #112222;
   padding: 20px 100px;
   display: flex;
   justify-content: space-between;
